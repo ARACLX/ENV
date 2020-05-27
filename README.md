@@ -1,19 +1,30 @@
 # araclx.ENV
 
-Araclx Corp. Environment is a technology stack designed by [Jakub Olan](https://github.com/ZiQiLN) which is focused to archive a good developer productivity combined with software performance and delivery quality.
+**araclx.ENV** stands for modularity, scalability and performance. This stack was designed to archive most performance followed by developer-friendly solutions provided by few programming languages and tools, it's focused to be tool-agnostic which makes it suitable for most companies and developers.
 
 ## Contents of aralcx.ENV
+Expolore Table of Contents of our README.
 
-### Programming Languages
+- [Programming Languages](#programming-languages)
+    + [DevOps](#devops)
+      - [Containerisation](#containerisation)
+      - [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
 
-aralcx.ENV is based on few, yet very powerfull languages that provides needed flexability, scalability and stability that mades every software great, and friendly for development.
+## Programming Languages
 
-- TypeScript
-- Go
-- Rust
-- Kotlin
+aralcx.ENV is based on few, yet very scalable and modular programming languages which provides great performance and are developer-friendly.
 
-### DevOps
+- **TypeScript**
+- **Go**
+- **Rust**
+
+In some cases we're using a few other languages such as **ReasonML** as a functional language, or **C++** to develop specific parts of software where performance is a crucial element which needs to be covered.
+
+[⬆️ Back to Top](#contents-of-aralcxenv)
+
+## DevOps
+
+> To be continued.
 
 #### Containerisation
 
