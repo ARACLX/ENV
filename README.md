@@ -5,12 +5,14 @@
 ## Contents of aralcx.ENV
 Expolore Table of Contents of our README.
 
-- [Programming Languages](#programming-languages)
-    + [DevOps](#devops)
-      - [Containerisation](#containerisation)
-      - [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
+- [Application and Data](#application-and-data)
+  - [Programming Languages](#programming-languages)
+  - [Front-End Development](#front-end-development)
+- [DevOps](#devops)
 
-## Programming Languages
+## Application and Data
+
+### Programming Languages
 
 aralcx.ENV is based on few, yet very scalable and modular programming languages which provides great performance and are developer-friendly.
 
@@ -19,6 +21,15 @@ aralcx.ENV is based on few, yet very scalable and modular programming languages 
 - **Rust**
 
 In some cases we're using a few other languages such as **ReasonML** as a functional language, or **C++** to develop specific parts of software where performance is a crucial element which needs to be covered.
+
+[⬆️ Back to Top](#contents-of-aralcxenv)
+
+### Front-End Development
+
+- **Ionic**
+- **React**
+- **Styled-Components**
+- **PostCSS**
 
 [⬆️ Back to Top](#contents-of-aralcxenv)
 
