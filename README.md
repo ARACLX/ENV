@@ -128,11 +128,35 @@ Container engines, often referred to as operating-system-level virtualization, a
 
 - Docker
 
+[⬆️ Back to Top](#table-of-contents)
+
 #### Container Management
 
 Container management platforms facilitate the organization and virtualization of software containers, which may also be referred to as operating-system-level virtualizations. Developers use containers to launch, test, and secure applications in resource-independent environments. Containers house components of applications, libraries, or groups of source code that can be executed on demand. The management platforms help users allocate resources to optimize efficiency and balance system workloads. Containers provide a flexible, portable platform to organize, automate, and distribute applications.
 
 - WeaveWorks
+
+[⬆️ Back to Top](#table-of-contents)
+
+#### Container Networking
+
+Container networking software creates a virtualized, defined network to facilitate container-to-container connectivity. These internally virtualized networks allow communication and integration between containers or applications powered by container sets. The networks create isolated regions to allow multiple containers to communicate with the same network independently.
+
+- HashiCorp Consul
+- Nginx
+- Istio
+
+[⬆️ Back to Top](#table-of-contents)
+
+#### Service Discovery
+
+Service discovery software helps automate the detection of services within a computer network. This type of software connects clustered containers to service providers by identifying their name, host, or link. Service discovery solutions allow applications within containers to communicate and integrate data with registered services.
+
+- HashiCorp Consul
+- Traefik
+- linkerd
+
+[⬆️ Back to Top](#table-of-contents)
 
 #### Container Orchestration
 
@@ -141,6 +165,9 @@ Container orchestration software allows developers to deploy multiple containers
 - Kubernetes
 - Nomad
 - D2iQ
+- Rancher
+
+[⬆️ Back to Top](#table-of-contents)
 
 #### Container Registry
 
@@ -151,13 +178,48 @@ Container registries allow users to manage containers distributed throughout the
 
 [⬆️ Back to Top](#table-of-contents)
 
+### CI/CD
+
+#### Continous Integration
+
+Continuous integration (CI) is the practice of frequently building and testing each change made to a codebase. Continuous integration involves developers uploading new code, or code changes, to a common code repository, which is then tested automatically at the time of upload to ensure changes do not cause issues or breaks.
+
+- CircleCI
+
+[⬆️ Back to Top](#table-of-contents)
+
+#### Continous Deployment
+
+Continuous deployment is software that automatically deploys built applications to production. Continuous deployment tools are often used by large companies that need to quickly, frequently, and easily release new changes to their customers’ applications. Continuous deployment tools are used by DevOps teams through a workflow called the deployment pipeline.
+
+- CircleCI
+- Ansible
+
+[⬆️ Back to Top](#table-of-contents)
+
+#### Continous Delivery
+
+Continuous delivery, as a process, aims to help developers generate deployment-ready code as quickly and efficiently as possible. By facilitating short development cycles with automation, workflows, and more, continuous delivery solutions enable developers to write, test, and stage software and updates. Code written through continuous delivery must be deployed manually.
+
+- BitRise
+- Qovery (https://www.qovery.com/)
+- https://humanitec.com/
+
+[⬆️ Back to Top](#table-of-contents)
+
+#### Infrastructure Automation
+
+Cloud infrastructure automation technology is used to provision servers and computer data centers through metadata files, as opposed to physical configuration. The concept in practice can also be referred to implementing "infrastructure as code" or performing continuous configuration automation. Developers will create templated infrastructure to run their application code, review code, and integrate it. These templates can then be reused and generated automatically, minimizing a developer’s need to reconfigure infrastructure.
+
+- Terraform
+- Ansible
+- SaltStack
+
+[⬆️ Back to Top](#table-of-contents)
+
 ## Business Tools
 
 ### Communication
-
-| Service | Header Two |
-| :------ | :--------- |
-| Slack   | Item Two   |
 
 ### Sales & Customer Service
 
@@ -173,25 +235,6 @@ Container registries allow users to manage containers distributed throughout the
 
 - VMware
 - Vagrant
-
-#### Orchestration
-
-- Kubernetes
-- Rancher
-- Nomad
-
-#### Continuous Integration and Continuous Delivery
-
-araclx.ENV bets on compact CI/CD services that doesn't require a tons of time to build a perfect configuration and allows to build sharable configurations.
-
-- CircleCI
-
-### Infrastructure as a Code
-
-- Terraform
-- Ansible
-
-### CDN
 
 ### DNS
 
