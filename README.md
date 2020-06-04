@@ -17,3 +17,5 @@ It's more informal version of our technology stack, if you're looking for detail
 In our tech-stack we **don't** use **PHP**, **Python**, **Ruby** or other trash-lang because we have enough technical debt and we don't wanna make it deeper. Just jokeing, we don't have much technical debt, but we was sure about these laguages - programming software in Python in 2020 is just like WTF. Behind our main languages we're commonly using **ReasonML** for functional programing, **C++** where performance is really important element, and **JavaScript** where TypeScript would be useless layer.
 
 # }
+
+ARACLX Coporation ❤️ products developed by [Microsoft](https://microsoft.com), [Google](https://google.com), [RedHat](), [Docker](https://docker.com), [HashiCorp](), [WeaveWorks]() and Open-Source Community.
