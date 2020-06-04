@@ -46,7 +46,9 @@
 
 API management software allows users to monitor, control, and monetize their application program interfaces (APIs) in a secure development environment. These tools help administrators monitor connection consistency, traffic, errors, and security for their team’s published APIs.
 
-- Postman
+| Solution        | Description |
+| :-------------- | :---------- |
+| [**Postman**]() | ...         |
 
 [⬆️ Back to Top](#table-of-contents)
 
@@ -54,8 +56,10 @@ API management software allows users to monitor, control, and monetize their app
 
 API design software allows users to plan, create, and make changes to application programming interfaces (APIs) in a secure development environment. These tools help handle the pre-production management for APIs by enabling developers to ideate, set design guidelines, and ultimately build APIs under one dashboard.
 
-- SwaggerHub
-- Postman
+| Solution           | Description |
+| :----------------- | :---------- |
+| [**SwaggerHub**]() | ...         |
+| [**Postman**]()    | ...         |
 
 [⬆️ Back to Top](#table-of-contents)
 
@@ -63,7 +67,9 @@ API design software allows users to plan, create, and make changes to applicatio
 
 Feature management software facilitates the orchestration of feature rollouts and rollbacks for deployed applications. Developers use this software to manage feature flags, or “toggles," that control whether a given feature is live in an application. Feature management software relieves the logistical complexities of managing feature flags by providing a centralized hub for granular control and monitoring.
 
-- Split
+| Solution      | Description |
+| :------------ | :---------- |
+| [**Split**]() | ...         |
 
 [⬆️ Back to Top](#table-of-contents)
 
@@ -182,6 +188,7 @@ Container orchestration software allows developers to deploy multiple containers
 - Nomad
 - D2iQ
 - Rancher
+- OpenShift
 
 [⬆️ Back to Top](#table-of-contents)
 
