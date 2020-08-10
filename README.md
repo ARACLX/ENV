@@ -24,7 +24,7 @@ We're using just few databases that are covering all of our needs, basically for
 
 ### Infrastucture
 
-Our infrastructure is mostly based on **DigitalOcean** and **Google Cloud Platform**, because in our opinion these solutions are actually best IaaSes on the market. Behind IaaS we're using also some PaaS solutions - mainly **Heroku/Flynn** and **Vercel**. In case of both IaaSes that we're using we're implementing **Kubernetes** into automated infrastructure by **Terraform**.
+Our infrastructure is mostly based on **DigitalOcean**, **Scaleway**, **UpCloud** and **Google Cloud Platform**, because in our opinion these solutions are actually best IaaSes on the market. Behind IaaS we're using also some PaaS solutions - mainly **Heroku/Flynn** and **Vercel**. In case of both IaaSes that we're using we're implementing **Kubernetes** into automated infrastructure by **Terraform**.
 
 ### Design
 
