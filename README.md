@@ -34,6 +34,8 @@ Our design solutions are **Abstract**, **InVision** and **Maze**.
 
 Sometimes we're using **Witeboard** for discussing some design solutions, and **Octopus** for building site maps.
 
+> You can read more about technology used by DesignOps at our company in ["Araclx DesignOps Ecosystem" document](./pages/design-ecosystem.md).
+
 ### Business Tools
 
 > Currently we're using **Jira** and **ZenHub** for issue management, but we're found some interesting alternatives - **Zepel**, **Clubhouse** and **Linear**. They both are simple to use, yet powerful tools but since they don't have integrations yet it's hard to introduce them to our workflow.
