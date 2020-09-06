@@ -37,8 +37,7 @@ Sometimes we're using **Witeboard** for discussing some design solutions, and **
 > You can read more about technology used by DesignOps at our company in ["Araclx DesignOps Ecosystem" document](./pages/design-ecosystem.md).
 
 ### Business Tools
-
-> Currently we're using **Jira** and **ZenHub** for issue management, but we're found some interesting alternatives - **Zepel**, **Clubhouse** and **Linear**. They both are simple to use, yet powerful tools but since they don't have integrations yet it's hard to introduce them to our workflow.
+We're officially moved out from [Jira]() to [Linear]() since that's solution more suitable for startups and smaller teams, where Jira is mostly focused on enterprises. Maybe in future we'll comeback to Jira but solid GitHub integration is crucial.
 
 #### Analytics
 
